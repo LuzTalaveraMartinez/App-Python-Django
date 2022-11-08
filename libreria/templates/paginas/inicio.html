@@ -1,0 +1,21 @@
+{% extends "base.html" %} {% block titulo %} Inicio {% endblock %} {% block contenido %}
+
+
+<div class="p-5 bg-default" style="text-align:center;">
+    <div class="container">
+        <h1 class="display-3">MI BIBLIOTECA</h1>
+        <h4 class="display-9" style="font-weight:100">No es analfabeto aquel que no sabe leer, sino aquel que sabiendo leer, no lee.</h4>
+        <p class="lead" style="font-weight:500"> Empezar a ingresar libros</p>
+        <hr class="my-2">
+        <p class="lead">
+            <a class="btn btn-primary btn-lg" style="margin-top:50px;" href="{% url 'libros' %}" role="button">Empezar</a>
+        </p>
+    </div>
+
+
+
+</div>
+
+
+
+{% endblock %}
