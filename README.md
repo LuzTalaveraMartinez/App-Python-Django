@@ -1,3 +1,7 @@
+## Aplicación realizada con Python y Django, con estilos Bootstrap y conexión a base de datos MySQL.
+
+
+
 # INICIO
 
 [![Portada-github01.jpg](https://i.postimg.cc/qMXn60CF/Portada-github01.jpg)](https://postimg.cc/qzqgWPwc)
